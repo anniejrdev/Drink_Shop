@@ -19,10 +19,10 @@ const Hero = () => {
        
         <div className='space-x-4 -rotate-5'>
           <button className='bg-orange-700 px-3 py-2 xl:px-6 xl:py-3 rounded text-white hover:bg-orange-800 transition'>
-            Shop Now
+            Shop Now 
           </button>
           <button className='border border-white px-3 py-2 xl:px-6 xl:py-3 rounded hover:bg-orange-800 hover:border-none transition'>
-            Read more
+            Read more more more
           </button>
         </div>
       </div>
