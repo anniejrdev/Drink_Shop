@@ -22,7 +22,7 @@ const Hero = () => {
             Shop Now
           </button>
           <button className='border border-white px-3 py-2 xl:px-6 xl:py-3 rounded hover:bg-orange-800 hover:border-none transition'>
-            Read more
+            Explore more
           </button>
         </div>
       </div>
